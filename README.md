@@ -75,7 +75,7 @@ We provide 240 synthetic examples covering all five SOLID principles, across:
 ## Structure of the Project
 
 ```plaintext
-REFACTORAPTOR/
+AreWeSOLID/
 ├── __pycache__/                              # Python cache files
 ├── .idea/                                    # IDE configuration files
 ├── analytic_reports_trials/                  # Trials for output analysis (not used for final evaluation)
